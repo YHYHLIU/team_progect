@@ -20,11 +20,12 @@
 4. 輸入關鍵字即可搜尋到符合內容之謎片
 
 謎片機器人的特色:
-1. 每日皆有知識小學堂
+1. 每日皆有姿勢小學堂
 2. 每到節日時即會跑出特殊圖案
 
 ## 參考連結：
-
+[Line-Bot-Tutorial](https://github.com/twtrubiks/line-bot-tutorial)
 [批踢踢實業坊_看板_japanavgirls](https://www.ptt.cc/bbs/japanavgirls/index.html)
+
 
 
